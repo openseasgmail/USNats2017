@@ -2,7 +2,7 @@
 
 
 | Name        | Day           | Start time  | End time  | Event | Group / Heat |
-|:-------------:|:------:| --------:| --------:|:----- |:----- |
+|:-------------:|:---:| ---:| ---:|:--- |:---- |
 |Aaron Paskow	|Friday	|11:25 am	|11:40 am	|Skewb Round 1	|Green 5|
 |Aaron Paskow	|Friday	|3:35 pm	|3:50 pm	|Pyraminx Round 1	|Red 5|
 |Aaron Paskow	|Saturday	|10:45 am	|11:00 am	|2x2 Cube Round 1	|Blue 6|
